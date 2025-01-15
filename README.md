@@ -10,24 +10,24 @@ A highly skilled data scientist with a PhD in physical oceanography, a master's 
 
 Click into this icon to goto my portfolio 
 
-[<img src="https://img.icons8.com/?size=512&id=naDnVpQ3BNkR&format=png" width=60px Height=60px alt="Click here to go to my portfolio"/>](https://github.com/humbertovarona/Portfolio)
+[<img src="https://img.icons8.com/?size=512&id=naDnVpQ3BNkR&format=png" width=60px Height=60px alt="Click here to go to my portfolio"/>](https://github.com/humbertolvarona/Portfolio)
 
 # 📊 Github Statistics:
-![](https://github-readme-streak-stats.herokuapp.com/?user=humbertovarona&theme=dark&hide_border=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=humbertolvarona&theme=dark&hide_border=false)</br>
 
 <div>
-<a href=""><img lign="center" height="280em" src="https://github-readme-stats.vercel.app/api?username=humbertovarona&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></a> <a href=""><img lign="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertovarona&langs_count=20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
+<a href=""><img lign="center" height="280em" src="https://github-readme-stats.vercel.app/api?username=humbertolvarona&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></a> <a href=""><img lign="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertolvarona&langs_count=20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
 </div>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=humbertovarona&theme=onedark&margin-w=15&margin-h=15&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=humbertolvarona&theme=onedark&margin-w=15&margin-h=15&row=2&column=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=humbertovarona&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=humbertolvarona&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=humbertovarona&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=humbertolvarona&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ## 💰 You can help me by Donating
